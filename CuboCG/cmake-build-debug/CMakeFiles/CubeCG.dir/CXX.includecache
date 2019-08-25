@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/gian/CLionProjects/untitled4/main.cpp
+/Users/gian/GitHub/Exercicios_Computacao_Grafica/CuboCG/main.cpp
 GL/glew.h
 -
 GLFW/glfw3.h

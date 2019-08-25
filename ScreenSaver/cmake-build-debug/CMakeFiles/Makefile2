@@ -59,10 +59,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/gian/CLionProjects/ScreenSaver
+CMAKE_SOURCE_DIR = /Users/gian/GitHub/Exercicios_Computacao_Grafica/ScreenSaver
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/gian/CLionProjects/ScreenSaver/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/gian/GitHub/Exercicios_Computacao_Grafica/ScreenSaver/cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/ScreenSaver.dir
@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /Users/gian/CLionProjects/ScreenSaver/cmake-build-debug
 CMakeFiles/ScreenSaver.dir/all:
 	$(MAKE) -f CMakeFiles/ScreenSaver.dir/build.make CMakeFiles/ScreenSaver.dir/depend
 	$(MAKE) -f CMakeFiles/ScreenSaver.dir/build.make CMakeFiles/ScreenSaver.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/gian/CLionProjects/ScreenSaver/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target ScreenSaver"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/gian/GitHub/Exercicios_Computacao_Grafica/ScreenSaver/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target ScreenSaver"
 .PHONY : CMakeFiles/ScreenSaver.dir/all
 
 # Include target in all.
@@ -81,9 +81,9 @@ all: CMakeFiles/ScreenSaver.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ScreenSaver.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gian/CLionProjects/ScreenSaver/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gian/GitHub/Exercicios_Computacao_Grafica/ScreenSaver/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ScreenSaver.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gian/CLionProjects/ScreenSaver/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gian/GitHub/Exercicios_Computacao_Grafica/ScreenSaver/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/ScreenSaver.dir/rule
 
 # Convenience name for target.

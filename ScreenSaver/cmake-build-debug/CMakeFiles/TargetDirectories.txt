@@ -1,3 +1,3 @@
-/Users/gian/CLionProjects/ScreenSaver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/gian/CLionProjects/ScreenSaver/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/gian/CLionProjects/ScreenSaver/cmake-build-debug/CMakeFiles/ScreenSaver.dir
+/Users/gian/GitHub/Exercicios_Computacao_Grafica/ScreenSaver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gian/GitHub/Exercicios_Computacao_Grafica/ScreenSaver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gian/GitHub/Exercicios_Computacao_Grafica/ScreenSaver/cmake-build-debug/CMakeFiles/ScreenSaver.dir

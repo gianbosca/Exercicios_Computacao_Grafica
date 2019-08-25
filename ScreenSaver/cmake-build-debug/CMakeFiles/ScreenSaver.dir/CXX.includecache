@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/gian/CLionProjects/ScreenSaver/main.cpp
+/Users/gian/GitHub/Exercicios_Computacao_Grafica/ScreenSaver/main.cpp
 GL/glew.h
 -
 GLFW/glfw3.h

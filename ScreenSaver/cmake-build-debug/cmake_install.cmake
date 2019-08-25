@@ -1,4 +1,4 @@
-# Install script for directory: /Users/gian/CLionProjects/ScreenSaver
+# Install script for directory: /Users/gian/GitHub/Exercicios_Computacao_Grafica/ScreenSaver
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/gian/CLionProjects/ScreenSaver/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/gian/GitHub/Exercicios_Computacao_Grafica/ScreenSaver/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

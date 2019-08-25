@@ -59,10 +59,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/gian/CLionProjects/untitled4
+CMAKE_SOURCE_DIR = /Users/gian/GitHub/Exercicios_Computacao_Grafica/CuboCG
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/gian/CLionProjects/untitled4/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/gian/GitHub/Exercicios_Computacao_Grafica/CuboCG/cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/CubeCG.dir
@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /Users/gian/CLionProjects/untitled4/cmake-build-debug
 CMakeFiles/CubeCG.dir/all:
 	$(MAKE) -f CMakeFiles/CubeCG.dir/build.make CMakeFiles/CubeCG.dir/depend
 	$(MAKE) -f CMakeFiles/CubeCG.dir/build.make CMakeFiles/CubeCG.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/gian/CLionProjects/untitled4/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target CubeCG"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/gian/GitHub/Exercicios_Computacao_Grafica/CuboCG/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target CubeCG"
 .PHONY : CMakeFiles/CubeCG.dir/all
 
 # Include target in all.
@@ -81,9 +81,9 @@ all: CMakeFiles/CubeCG.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CubeCG.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gian/CLionProjects/untitled4/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gian/GitHub/Exercicios_Computacao_Grafica/CuboCG/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CubeCG.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gian/CLionProjects/untitled4/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gian/GitHub/Exercicios_Computacao_Grafica/CuboCG/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/CubeCG.dir/rule
 
 # Convenience name for target.

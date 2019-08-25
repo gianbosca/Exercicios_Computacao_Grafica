@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/gian/CLionProjects/ScreenSaver/main.cpp" "/Users/gian/CLionProjects/ScreenSaver/cmake-build-debug/CMakeFiles/ScreenSaver.dir/main.cpp.o"
+  "/Users/gian/GitHub/Exercicios_Computacao_Grafica/ScreenSaver/main.cpp" "/Users/gian/GitHub/Exercicios_Computacao_Grafica/ScreenSaver/cmake-build-debug/CMakeFiles/ScreenSaver.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

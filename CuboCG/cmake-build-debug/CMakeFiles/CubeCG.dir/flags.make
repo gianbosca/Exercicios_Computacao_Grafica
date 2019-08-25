@@ -6,5 +6,5 @@ CXX_FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sd
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/gian/CLionProjects/untitled4/. -I/usr/local/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I/usr/local/include/glm 
+CXX_INCLUDES = -I/Users/gian/GitHub/Exercicios_Computacao_Grafica/CuboCG/. -I/usr/local/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I/usr/local/include/glm 
 

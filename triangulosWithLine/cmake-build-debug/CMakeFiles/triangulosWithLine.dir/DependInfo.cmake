@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/gian/CLionProjects/triangulosWithLine/main.cpp" "/Users/gian/CLionProjects/triangulosWithLine/cmake-build-debug/CMakeFiles/triangulosWithLine.dir/main.cpp.o"
+  "/Users/gian/GitHub/Exercicios_Computacao_Grafica/triangulosWithLine/main.cpp" "/Users/gian/GitHub/Exercicios_Computacao_Grafica/triangulosWithLine/cmake-build-debug/CMakeFiles/triangulosWithLine.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
