@@ -97,7 +97,7 @@ int main () {
     glfwWindowHint (GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
 
     window = glfwCreateWindow (
-            640, 480, "CGR - GLSL - 03 - Moving Triangle", NULL, NULL
+            640, 480, "Screen Saver - Moving Triangle", NULL, NULL
     );
     if (!window) {
         fprintf (stderr, "ERROR: could not open window with GLFW3\n");
@@ -256,12 +256,12 @@ int main () {
         glBindVertexArray (vao);
 
         /* draw points 0-3 from the currently bound VAO with current in-use shader*/
-        if(doPisc){
+//        if(doPisc){
             glDrawArrays (GL_TRIANGLES, 0, 3);
-        }
-        else{
-            glDrawArrays (GL_LINE_LOOP, 0, 3);
-        }
+//        }
+//        else{
+//            glDrawArrays (GL_LINE_LOOP, 0, 3);
+//        }
 
 
         /* update other events like input handling */
